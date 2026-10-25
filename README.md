@@ -2,7 +2,8 @@
 ## Overview
 An interactive Excel dashboard designed to analyze sales performance, revenue, and profitability across different countries, regions, product categories, and sales channels.
 ## Dashboard Preview
-![Sales Profitability Dashboard](images/dashboard-preview.png)
+## Dashboard Preview
+![Sales Profitability Dashboard](Dashboard-Preview.png)
 ## Key Performance Indicators (KPIs)
 - **Total Revenue:** $645,223
 - **Total Gross Profit:** $296,384
